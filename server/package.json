@@ -1,0 +1,19 @@
+{
+  "name": "graphql-react",
+  "version": "1.0.0",
+  "description": "An example to showcase Graphql usage with React applications",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "NaviMarella",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2",
+    "mongoose": "^5.4.0",
+    "nodemon": "^1.18.9"
+  }
+}
